@@ -103,6 +103,11 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+### Client output
+![Screenshot 2023-06-04 133715](https://github.com/RagulRM/standard-calculator/assets/121609342/5b5255f7-99dd-43f4-9e93-9f365a28984e)
+
+### Server output
+![ex081](https://github.com/RagulRM/standard-calculator/assets/121609342/ea3ff64a-63e8-4e91-9abf-c3fec576737e)
 
 ## Result:
 Thus the program for the simple calculator executed successfully.
